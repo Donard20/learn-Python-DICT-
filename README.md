@@ -13,11 +13,11 @@ Python Training sponsored by DICT-Philippines.
 
 ## Project File
 
- - [Programming-for-Beginners-in-Python](https://github.com/Donard20/learn-Python-DICT/tree/master/Programming-for-Beginners-in-Python)
+ - [Programming-for-Beginners-in-Python](https://github.com/Donard20/learn-Python-DICT-/tree/main/Programming-for-Beginners-in-Python)
 
 ## Lessons Learned
 
- - [Programming for Beginners in Python](https://github.com/Donard20/learn-Python-DICT/tree/master/Programming-for-Beginners-in-Python)
+ - [Programming for Beginners in Python](https://github.com/Donard20/learn-Python-DICT-/tree/main/Programming-for-Beginners-in-Python)
     - Hello Python
         - Getting started in Python
         - Variables 
