@@ -6,3 +6,6 @@ vocal_ranges = ["soprano", "alto", "tenor"]
 
 singers = dict(zip(students, vocal_ranges))
 print(singers)
+
+#create dictionary
+# {'Joy': 'soprano', 'Asha': 'alto', 'Oscar': 'tenor'}
