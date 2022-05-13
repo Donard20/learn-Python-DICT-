@@ -33,7 +33,13 @@ Python Training sponsored by DICT-Philippines.
     - Conditions and Loops
         - If, Elif, Else
         - Loops and Iterations
-
+ - [Programming for Intermediate Users Using Python](https://github.com/Donard20/learn-Python-DICT-)
+    - Classes
+        - Using Init Method
+        - Inheritance and SubClass
+    - Dictionaries
+        - What are dictionaries
+        - Looping through Dictionaries
 
 
 ## 🛠 Skill and IDE
