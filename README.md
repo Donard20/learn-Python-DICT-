@@ -17,7 +17,7 @@ Python Training sponsored by DICT-Philippines.
 
 ## Lessons Learned
 
- - [Programming for Beginners in Python](https://github.com/Donard20/learn-Python-DICT-/tree/main/Programming-for-Beginners-in-Python)
+ - [Programming for Beginners in Python](https://github.com/Donard20/learn-Python-DICT-/tree/main/Introduction-to-Intermediate-Python)
     - Hello Python
         - Getting started in Python
         - Variables 
