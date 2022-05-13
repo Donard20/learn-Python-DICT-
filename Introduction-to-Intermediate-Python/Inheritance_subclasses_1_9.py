@@ -40,7 +40,22 @@ o_4 = ClubOfficers("Vera", "June 22", str(16), "Beef stroganoff", "To be the wor
 m_1.display1()          #--printing out the information 
 o_4.display2()          #--printing out the information       
 
+#print
+# (parent class/ClubMembers)
+# Name: Tom
+# Birthday: January 16
+# Age: 14
+# Favorite food: Ice Cream
+# Goal: To be happy
 
+
+# (SubClass/ClubMembers)
+# Name: Vera
+# Birthday: June 22
+# Age: 16
+# Favorite food: Beef stroganoff       
+# Goal: To be the world's greatest chef
+# Position Treasurer
 
 
 
