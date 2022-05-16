@@ -14,6 +14,7 @@ Python Training sponsored by DICT-Philippines.
 ## Project File
 
  - [Programming-for-Beginners-in-Python](https://github.com/Donard20/learn-Python-DICT-/tree/main/Programming-for-Beginners-in-Python)
+ - [Programming for Intermediate Users Using Python](https://github.com/Donard20/learn-Python-DICT-/tree/main/Introduction-to-Intermediate-Python)
 
 ## Lessons Learned
 
