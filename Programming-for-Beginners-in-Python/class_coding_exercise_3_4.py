@@ -21,18 +21,21 @@ class Customers:
     greeting = "Welcome to the Coffee Palace!"
     pass
 
+#customer 1
 c_1 = Customers()
 c_1.name = "Samirah"
 c_1.beverage = "Iced caffe latte"
 c_1.food = "Cinnamon roll"
 c_1.total = int(225)
 
+#customer 2
 c_2 = Customers()
 c_2.name = "Jerry"
 c_2.beverage = "Caramel macchiato"
 c_2.food = "Glazed dougnut"
 c_2.total = int(230)
 
+#print data
 print(Customers.greeting)
 print("What", c_1.name, "want to drink?", c_1.beverage + "!", "for $" + str(c_1.total))
 print("What", c_2.name, "want to drink?", c_1.food + "!", "for $" +  str(c_2.total))
