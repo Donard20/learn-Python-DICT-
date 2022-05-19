@@ -42,6 +42,12 @@ Python Training sponsored by DICT-Philippines.
     - Dictionaries
         - What are dictionaries
         - Looping through Dictionaries
+     - Files and Excepetions
+        - Handling, Creating and Writing a File
+        - Exceptions
+     - Modules
+        - What are Module
+        - Using Built-In Python Modules
 
 
 ## 🛠 Skill and IDE
