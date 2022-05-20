@@ -53,7 +53,7 @@ Python Training sponsored by DICT-Philippines.
 ## 🛠 Skill and IDE
 Python 3 | Pycharm Community and VSCode for Github integration
 
-## Certificate Training
+## ✨ Certificate Training
 
   <details>
   <summary>
