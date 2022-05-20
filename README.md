@@ -53,6 +53,37 @@ Python Training sponsored by DICT-Philippines.
 ## 🛠 Skill and IDE
 Python 3 | Pycharm Community and VSCode for Github integration
 
+## Certificate Training
+
+  <details>
+  <summary>
+  Programming for Beginners in Python
+  </summary>
+   <p align="center">
+   <a href="https://github.com/Donard20/learn-Python-DICT-/blob/main/certificate/Programming%20for%20Beginners%20Using%20Python%20Certificate.pdf" target="_blank"><img src="https://img.shields.io/badge/View-My%20Certificate-purple?style=for-the-badge&logo=github"></a>
+
+
+ </details>
+
+
+ </details>
+ 
+---
+
+  <details>
+  <summary>
+  Programming for Intermediate Users Using Python
+  </summary>
+   <p align="center">
+   <a href="https://github.com/Donard20/learn-Python-DICT-/blob/main/certificate/Programming%20for%20Intermediate%20Users%20Using%20Python%20Certificate.pdf" target="_blank"><img src="https://img.shields.io/badge/View-My%20Certificate-purple?style=for-the-badge&logo=github"></a>
+
+
+ </details>
+
+
+ </details>
+
+
 ## Used By
 
 This project and exercises is used by the following companies:
